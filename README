@@ -1,0 +1,28 @@
+README
+
+Benjamin Fallon
+COSC435
+HW #1, Spring 2016
+
+-"Composition with Yellow, Blue, Black, Red and Gray" by Piet Mondrian, 1921
+-Art Book: "Piet Mondrian 1872-1944", page 46
+
+-I chose this painting because I like how Mondrian uses combinations of different sizes and colors of rectangles to create a
+piece of art that is balanced, stimulating, and asthetically pleasing. I like how it is in no way symmetrical, yet seems to be
+balanced in its own unique way, both in terms of color and positioning. It was also great practice for drawing in WebGL; I had to be careful to scale everything correctly based on my sketch, as well as make sure everything aligned correctly.
+
+-I think my version does a good job with scaling and alignment; I was very careful in creating my sketch by measuring the artwork in the art book I checked out from the library. Although I could have been more precise if the artbook had a larger picture of the piece -- or alternatively, if I had more precise measuring instruments -- I think I got quite close to the original.
+
+The main area my version is lacking is in color. The color pickers I used could not always get close to the original colors. It was obvious from the color pickers that within each "rectangle" in the original, the colors varied slightly from pixel to pixel. Part of this was due to translating the original from a physical canvas to a photograph (affected by lighting), then to a digital photo on the computer screen, and finally to the human eye. And part of this variation from pixel to pixel is because of the original paint and brushes Mondrian used in creating the original, since this leads to subtle variations even for a single color of paint. I was also somewhat limited by the graphics/WebGL context as I know if for now, because I had to specify each rectangle's position in relation to the top-left corner of the canvas. It would have been simpler to be able to also specify rectangle locations in relation to each other.
+
+Do you authorize your .png to be posted on the web gallery of the course?
+-Yes
+
+If yes, do you have a title for your image?
+-"Composition with Yellow, Blue, Black, Red and Gray" by Piet Mondrian, 1921
+
+If yes, do you want your name to be associated to it, or a pseudo, or anonymous?
+-Name
+
+Would you authorize your work to be anonymously used in a academic publication?
+-Yes
